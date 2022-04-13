@@ -34,6 +34,7 @@ namespace CursoCSharp {
                 {"Estrutura For - Estruturas de Controle", EstruturaFor.Executar},
                 {"Estrutura For Each - Estruturas de Controle", EstruturaForEach.Executar},
                 {"Break - Estruturas de Controle", UsandoBreak.Executar},
+                {"Continue - Estruturas de Controle", UsandoContinue.Executar},
             });
 
             central.SelecionarEExecutar();
