@@ -50,6 +50,7 @@ namespace CursoCSharp {
                 {"Propriedades (props) - Classes e Métodos", Props.Executar},
                 {"Read Only - Classes e Métodos", Readonly.Executar},
                 {"Exemplo Enum - Classes e Métodos", ExemploEnum.Executar},
+                {"Exemplo Struct - Classes e Métodos", Struct.Executar},
             });
 
             central.SelecionarEExecutar();
